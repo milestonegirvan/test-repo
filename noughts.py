@@ -1,4 +1,4 @@
-# noughts and crosses
+# noughts and crosses - foo
 
 import random 
 #  board layout
